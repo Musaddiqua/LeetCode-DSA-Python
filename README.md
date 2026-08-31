@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->

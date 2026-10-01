@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0596-classes-with-at-least-5-students) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

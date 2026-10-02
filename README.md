@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -59,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

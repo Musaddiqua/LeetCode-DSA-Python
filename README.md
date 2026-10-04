@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -57,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Game Theory
 |  |
 | ------- |

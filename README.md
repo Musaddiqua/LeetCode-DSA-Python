@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3904-smallest-stable-index-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2409-count-days-spent-together) |
 ## Greedy
 |  |
 | ------- |

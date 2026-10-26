@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1254-number-of-closed-islands) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3904-smallest-stable-index-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -101,16 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->

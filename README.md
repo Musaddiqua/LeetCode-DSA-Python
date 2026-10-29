@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0485-max-consecutive-ones) |
 | [1254-number-of-closed-islands](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1470-shuffle-the-array) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |

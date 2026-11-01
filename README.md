@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2409-count-days-spent-together) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0485-max-consecutive-ones) |
 | [1254-number-of-closed-islands](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1470-shuffle-the-array) |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2409-count-days-spent-together) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0485-max-consecutive-ones) |
 | [1254-number-of-closed-islands](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1470-shuffle-the-array) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->

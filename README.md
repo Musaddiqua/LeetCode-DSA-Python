@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1929-concatenation-of-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3904-smallest-stable-index-ii) |

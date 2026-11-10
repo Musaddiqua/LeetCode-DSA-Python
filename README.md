@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1929-concatenation-of-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
+| [3693-climbing-stairs-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |

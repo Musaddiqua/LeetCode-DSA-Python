@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1470-shuffle-the-array) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1929-concatenation-of-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3693-climbing-stairs-ii) |

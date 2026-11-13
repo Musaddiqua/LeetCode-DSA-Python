@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1929-concatenation-of-array) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3693-climbing-stairs-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1021-remove-outermost-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Simulation
 |  |
@@ -162,4 +165,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

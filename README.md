@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1021-remove-outermost-parentheses) |
 | [1927-sum-game](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0678-valid-parenthesis-string) |
 | [1872-stone-game-viii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/1872-stone-game-viii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/0005-longest-palindromic-substring) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Musaddiqua/LeetCode-DSA-Python/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Manacher
 |  |
 | ------- |
